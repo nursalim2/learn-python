@@ -1,0 +1,45 @@
+- comments
+  - comment
+  - multi line comment
+
+- variable
+  - variable
+  - casting
+  - get type
+  - single or double quotes
+  - case sensitive
+  - legal variable name
+  - assign many value to multiple variable  
+  - assigne one value to multiple variable
+  - unpack collection
+  - global variable
+  - global keyword
+
+- data type
+  - get data type
+  - str data type
+  - int data type
+  - float data type
+  - complex data type
+  - list data type
+  - tuple data type
+  - range data type
+  - dict data type
+  - set data type
+  - frozenset data type
+  - bool data type
+  - bytes data type
+  - byte array data type
+  - memoryview data type
+  - none data type
+  - using constructor
+
+- numbers
+  - number
+  - int
+  - float
+  - complex
+  - type conversion
+  - random number
+
+    
