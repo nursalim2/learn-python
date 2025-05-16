@@ -42,4 +42,18 @@
   - type conversion
   - random number
 
+- casting
+  - to_int  
+  - to_float
+  - to_string
+
+- strings
+  - string
+  - quotes inside quotes
+  - multi line string
+  - array from string
+  - loop through string
+  - string lenth
+  - check string  
+
     
