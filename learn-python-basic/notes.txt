@@ -54,6 +54,80 @@
   - array from string
   - loop through string
   - string lenth
-  - check string  
+  - check string
+  - slicing string
+  - string concat
+  - format string
+  - escape string
+
+- booleans
+  - boolean
+  - evaluate variable
+  - function return boolen
+  - check is int or not
+
+- operators
+  - arithmetic operator
+  - assignment operator
+  - comparison operator
+  - logical operator
+  - identity operator
+  - membership operator
+
+- lists
+  - list
+  - allow duplicate
+  - list length
+  - list data type
+  - get data type
+  - list constructor
+  - access item
+  - negative index
+  - range index
+  - check item exists
+  - change item value
+  - insert item
+  - append item
+  - extend list
+  - add tuple to list
+  - remove item
+  - remove index using pop
+  - clear list
+  - looping list
+  - list comprehension
+  - sort list
+  - copy list
+  - join list
+
+- tuples
+  - tuple
+  - allow duplicate
+  - tuple length
+  - create tuple with one item
+  - tuple constructor
+  - access item
+  - check item exists
+  - update tuple
+  - add tuple to tuple
+  - remove item
+  - delete tuple
+  - unpacking tuple
+  - looping tuple
+  - join tuple
+  - tuple method
+
+- set
+  - set
+  - duplicate not allowed
+  - length set
+  - set data type
+  - get type
+  - set constructor
+  - access item
+  - add item
+  - remove item    
+
+
+
 
     
