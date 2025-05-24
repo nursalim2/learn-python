@@ -125,7 +125,27 @@
   - set constructor
   - access item
   - add item
-  - remove item    
+  - remove item
+  - loop set
+  - join set
+
+- dictionaries
+  - dict
+  - duplicate not allowed
+  - dictionary length
+  - dictionary item
+  - dictionary type
+  - dict constructor
+  - access item
+  - check if key exists
+  - change item
+  - add item
+  - remove item
+  - loop dict
+  - copy dict
+  - nested dict
+
+- if..else     
 
 
 
