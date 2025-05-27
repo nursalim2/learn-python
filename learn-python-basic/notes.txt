@@ -145,7 +145,72 @@
   - copy dict
   - nested dict
 
-- if..else     
+- if..else
+  - if
+  - elif
+  - else
+  - shorthand if
+  - shorthand if else
+  - and
+  - or
+  - pass
+
+- match
+  - match
+  - default
+  - combine value
+  - with if
+
+- while loop
+  - while loop
+  - break
+  - continue
+  - else
+
+- for loop
+  - for loop
+  - loop string
+  - break
+  - continue
+  - range()
+  - else
+  - nested loop
+  - pass
+
+- function
+  - function
+  - function argument
+  - multiple argument
+  - *args argument
+  - keyword argument (*kwargs)
+  - arbitrary keyword argument (**kwargs)
+  - default parameter value
+  - passing list as argument
+  - return value
+  - pass statement
+  - positional only argument
+  - keyword only argument
+  - combine positional and keyword only arg
+  - recursion
+
+- lambda
+  - syntax :
+    lambda arguments : expression
+  - lambda
+  - lambda multi argument
+  - lambda in function
+
+- classes
+  - class simple
+  - class person
+  - __str__  function
+  - add function
+  - modify object properties
+  - delete properties
+  - delete object
+  - pass statement
+
+- inheritance              
 
 
 
