@@ -210,7 +210,59 @@
   - delete object
   - pass statement
 
-- inheritance              
+- inheritance
+  - inheritance
+
+- iterators
+  - iter()
+  - create iterator
+  - stop iteration
+
+- polymorphism
+  - len()
+  - polymorphism
+  - inheritance polymorphism
+
+- scope
+  - local scope
+  - function inside function
+  - global scope
+  - global keyword
+  - nonlocal keyword
+
+- module
+  - create module (mymodule.py)
+  - import module
+  - rename module
+  - builtin module ex platform
+  - dir() function
+  - import from module
+
+- dates
+  - now
+  - date output
+  - create date object
+  - strftime() method
+
+- math
+  - min() max()
+  - abs()
+  - pow()
+  - math module
+
+- json
+  - convert json to dictionary
+  - convert dict to json string
+  - dumps method
+  - format result
+
+- regex
+  - regex
+  - findall() function
+  - search() function
+  - split() function
+  - sub() function
+  - metacharacter                               
 
 
 
